@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	margin-top: 300px;
+	background-image: url("../img/hatterkep.jpg");
+	background-size: cover;
+	color: white;
+}
+#eredmeny {
+	font-size: 50px;
+}
+p {
+	font-size: 55px;
+}
+form {
+	font-size: 60px;
+}
+	
